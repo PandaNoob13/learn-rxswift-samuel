@@ -1,0 +1,6 @@
+framework module Pods_IntroToRxSwiftTests {
+  umbrella header "Pods-IntroToRxSwiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
